@@ -1,81 +1,87 @@
-![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=Sam%20Hillier&fontSize=70&fontColor=ffffff&desc=Data%20Science%20Student%20@%20UNC%20Charlotte&descFontSize=25&fontAlignY=40)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0d1117&height=180&section=header&text=Sam%20Hillier&fontSize=56&fontColor=f7a41d" />
+</div>
 
-# 👋 Hello there! I'm Sam Hillier
+# Sam Hillier
 
-### B.S. Data Science Student | AI & Cognitive Science Minor
+- B.S. Data Science, [UNC Charlotte](https://www.charlotte.edu) ’28
+- Based in [Charlotte, NC](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina)
+- Seeking Summer 2026 internships in Data Science, AI/ML, or BI
+- LinkedIn: [hilliersm](https://www.linkedin.com/in/hilliersm/)
+- GitHub: [hilliersmmain](https://github.com/hilliersmmain)
 
-- 🏛️ I'm currently studying Data Science at **[UNC Charlotte](https://www.charlotte.edu/)**
-- 🔭 I’m currently working on my **[Portfolio](https://github.com/hilliersmmain)**
-- 🧠 I'm currently learning about **[Artificial Intelligence](https://www.coursera.org/specializations/google-ai-essentials)**
-- 💬 Ask me about **[Python](https://www.python.org/)**
-- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/hilliersm)**
+## Connect with me
 
----
-
-### Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/hilliersm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilliersm" height="30" width="40" /></a>
-<a href="https://github.com/hilliersmmain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hilliersmmain" height="30" width="40" /></a>
+  <a href="https://example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="website" height="32" width="42" />
+  </a>
+  <a href="https://www.linkedin.com/in/hilliersm/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="42" />
+  </a>
+  <a href="https://x.com/example" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="32" width="42" />
+  </a>
+  <a href="mailto:sam@example.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="32" width="42" />
+  </a>
+  <a href="https://example.com/resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readthedocs&logoColor=white" alt="resume" height="32" />
+  </a>
 </p>
 
----
+## Languages and tools
 
-### Languages and Tools:
+Programming languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
-**Programming Languages**
-<br>
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<br><br>
+Frameworks and libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
 
-**Infrastructure & DevOps**
-<br>
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="padding-right:10px;" />
-<br><br>
+Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-**Data Science & Frameworks**
-<br>
-<img align="left" alt="Pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Plotly" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/plotly/plotly-original.svg" style="padding-right:10px;" />
-<img align="left" alt="FastAPI" width="26px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" style="padding-right:10px;" />
-<img align="left" alt="Streamlit" width="26px" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" style="padding-right:10px;" />
-<br><br>
+Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-0d1117?style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 
----
-
-### GitHub Stats
-
-<div align="center">
-<a href="https://github.com/hilliersmmain">
-<img src="https://github-readme-stats.vercel.app/api?username=hilliersmmain&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="Sam Hillier's GitHub Stats" />
-</a>
-<a href="https://github.com/hilliersmmain">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilliersmmain&layout=compact&langs_count=8&theme=tokyonight&hide=html" height="180" alt="Sam Hillier's Top Languages" />
-</a>
-</div>
+## GitHub stats
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/hilliersm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hilliersmmain&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f7a41d&icon_color=f7a41d&text_color=c9d1d9&ring_color=f7a41d" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilliersmmain&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f7a41d&text_color=c9d1d9" />
 </div>
 
----
+<p align="center">
+  <a href="https://www.buymeacoffee.com" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
+  </a>
+</p>
 
-### Featured Projects
+## Featured projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Community Pulse](https://github.com/hilliersmmain/community-pulse)** | Production-ready analytics platform with automated ETL pipeline, data quality scoring, and interactive visualizations. | `Streamlit` `Pandas` `Plotly` |
-| **[Ubuntu Remote ML Workstation](https://github.com/hilliersmmain/ubuntu-remote-ml-workstation)** | Repurposed gaming PC into a headless ML server accessible globally via NordVPN Meshnet. | `Docker` `NVIDIA CUDA` `Linux` |
-| **[LLM Gateway API](https://github.com/hilliersmmain/llm-gateway-api)** | FastAPI gateway proxying requests to Gemini 2.5 Flash with input validation guardrails and logging. | `FastAPI` `PostgreSQL` `Docker` |
-| **[Dr. Faruk Arinc Portfolio](https://github.com/hilliersmmain/dr-faruk-arinc-portfolio-website)** | Professional portfolio website showcasing academic work and publications. | `Web Dev` `Responsive Design` |
+- [Community Pulse](https://github.com/hilliersmmain/community-pulse) — Analytics dashboard with ETL + interactive visualizations
+- [Ubuntu Remote ML Workstation](https://github.com/hilliersmmain/ubuntu-remote-ml-workstation) — Headless GPU server + remote access setup
+- [LLM Gateway API](https://github.com/hilliersmmain/llm-gateway-api) — FastAPI gateway + Postgres logging + Docker Compose
+- [Dr. Faruk Arinc Portfolio Website](https://github.com/hilliersmmain/dr-faruk-arinc-portfolio-website) — Portfolio site (placeholder description)
 
----
+## Certifications
 
-### Certifications
-
-[![Google AI Essentials](https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/13f234a1010acb33e020d8877b35bcdc)
-[![Google Digital Marketing](https://img.shields.io/badge/Google_Digital_Marketing-34A853?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/6036b7adf1d543a1a7bfad6686066d50)
-[![Google Prompting Essentials](https://img.shields.io/badge/Google_Prompting_Essentials-EA4335?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/c7d3d67814cd9c97ab1016ea0e74ffc9)
+- [Google AI Essentials](https://coursera.org/share/13f234a1010acb33e020d8877b35bcdc)
+- [Google Digital Marketing & E-commerce](https://coursera.org/share/6036b7adf1d543a1a7bfad6686066d50)
+- [Google Prompting Essentials](https://coursera.org/share/c7d3d67814cd9c97ab1016ea0e74ffc9)
