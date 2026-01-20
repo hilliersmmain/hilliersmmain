@@ -1,87 +1,114 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0d1117&height=180&section=header&text=Sam%20Hillier&fontSize=56&fontColor=f7a41d" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20there,%20I'm%20Sam!&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-# Sam Hillier
+<h1 align="center">Sam Hillier</h1>
 
-- B.S. Data Science, [UNC Charlotte](https://www.charlotte.edu) ’28
-- Based in [Charlotte, NC](https://en.wikipedia.org/wiki/Charlotte,_North_Carolina)
-- Seeking Summer 2026 internships in Data Science, AI/ML, or BI
-- LinkedIn: [hilliersm](https://www.linkedin.com/in/hilliersm/)
-- GitHub: [hilliersmmain](https://github.com/hilliersmmain)
-
-## Connect with me
-
-<p align="left">
-  <a href="https://example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="website" height="32" width="42" />
-  </a>
-  <a href="https://www.linkedin.com/in/hilliersm/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="32" width="42" />
-  </a>
-  <a href="https://x.com/example" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="32" width="42" />
-  </a>
-  <a href="mailto:sam@example.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="32" width="42" />
-  </a>
-  <a href="https://example.com/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=readthedocs&logoColor=white" alt="resume" height="32" />
-  </a>
-</p>
-
-## Languages and tools
-
-Programming languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
-Frameworks and libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-0d1117?style=for-the-badge&logo=plotly&logoColor=white" />
-</p>
-
-Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-Infrastructure
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-0d1117?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-0d1117?style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-
-## GitHub stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hilliersmmain&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f7a41d&icon_color=f7a41d&text_color=c9d1d9&ring_color=f7a41d" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilliersmmain&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=f7a41d&text_color=c9d1d9" />
-</div>
+<h3 align="center">B.S. Data Science | UNC Charlotte '28</h3>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" />
-  </a>
+Sophomore at UNC Charlotte currently studying for a B.S. in Data Science with minors in Artificial Intelligence & Cognitive Science.
 </p>
 
-## Featured projects
+<p align="center">
+Currently taking Human-Centered Computing (ITIS 3130), Intro to Computer Science II (ITSC 1213), and Mathematics for Computer Science (MATH 2112). Planning to transition into UNC Charlotte's new B.S. in Artificial Intelligence program (Fall 2026) with minor in Cognitive Science.
+</p>
 
-- [Community Pulse](https://github.com/hilliersmmain/community-pulse) — Analytics dashboard with ETL + interactive visualizations
-- [Ubuntu Remote ML Workstation](https://github.com/hilliersmmain/ubuntu-remote-ml-workstation) — Headless GPU server + remote access setup
-- [LLM Gateway API](https://github.com/hilliersmmain/llm-gateway-api) — FastAPI gateway + Postgres logging + Docker Compose
-- [Dr. Faruk Arinc Portfolio Website](https://github.com/hilliersmmain/dr-faruk-arinc-portfolio-website) — Portfolio site (placeholder description)
+- I'm currently seeking **Summer 2026 internships** in [Data Science](https://www.linkedin.com/in/hilliersm), [AI/ML](https://www.linkedin.com/in/hilliersm), or [Business Intelligence](https://www.linkedin.com/in/hilliersm)
+- I'm currently working on my [Community Pulse Dashboard](https://github.com/hilliersmmain/community-pulse)
+- I like to talk about **Python**, **FastAPI**, and **ML Infrastructure**
+- Learn more about my projects on my [GitHub repositories](https://github.com/hilliersmmain?tab=repositories)
+- Ask me anything on my [issues page](https://github.com/hilliersmmain/hilliersmmain/issues)
+- Connect with me on [LinkedIn](https://linkedin.com/in/hilliersm)
 
-## Certifications
+---
 
-- [Google AI Essentials](https://coursera.org/share/13f234a1010acb33e020d8877b35bcdc)
-- [Google Digital Marketing & E-commerce](https://coursera.org/share/6036b7adf1d543a1a7bfad6686066d50)
-- [Google Prompting Essentials](https://coursera.org/share/c7d3d67814cd9c97ab1016ea0e74ffc9)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hilliersm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilliersm" height="30" width="40" /></a>
+<a href="https://twitter.com/PLACEHOLDER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/PLACEHOLDER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://youtube.com/@PLACEHOLDER" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+**Programming Languages:**
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+
+**Frameworks & Libraries:**
+<p align="left">
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="plotly" width="40" height="40"/> </a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="streamlit" width="40" height="40"/> </a>
+</p>
+
+**Databases:**
+<p align="left">
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+</p>
+
+**Infrastructure & Tools:**
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" alt="cuda" width="40" height="40"/> </a>
+</p>
+
+---
+
+<h2 align="center">Sam Hillier's GitHub Stats</h2>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hilliersmmain&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hilliersmmain&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hilliersmmain&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+<p align="center">
+<a href="https://www.buymeacoffee.com/PLACEHOLDER" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+### [Community Pulse](https://github.com/hilliersmmain/community-pulse) — Data Analytics Dashboard
+Production-ready analytics platform with automated ETL pipeline, data quality scoring, and interactive visualizations. Built with **Streamlit**, **Pandas**, and **Plotly**. 70 tests, 85% coverage, deployed on Streamlit Cloud.
+
+### [Ubuntu Remote ML Workstation](https://github.com/hilliersmmain/ubuntu-remote-ml-workstation) — Hybrid GPU Infrastructure
+Repurposed a gaming PC into a headless ML server accessible globally via NordVPN Meshnet. Configured with **NVIDIA drivers**, **CUDA**, **Docker**, and security hardening (UFW, Fail2Ban, SSH key-only auth).
+
+### [LLM Gateway API](https://github.com/hilliersmmain/llm-gateway-api) — Enterprise AI Integration
+**FastAPI** gateway proxying requests to Gemini 2.5 Flash with input validation guardrails, **PostgreSQL** request logging, and token tracking. Containerized with Docker Compose.
+
+### [Dr. Faruk Arinc Portfolio Website](https://github.com/hilliersmmain/dr-faruk-arinc-portfolio-website) — Professional Web Development
+Modern portfolio website showcasing academic work and publications. Built with responsive design principles and optimized performance.
+
+---
+
+<h2 align="center">Certifications</h2>
+
+<p align="center">
+<a href="https://coursera.org/share/13f234a1010acb33e020d8877b35bcdc" target="_blank"><img src="https://img.shields.io/badge/Google_AI_Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Essentials" /></a>
+<a href="https://coursera.org/share/6036b7adf1d543a1a7bfad6686066d50" target="_blank"><img src="https://img.shields.io/badge/Google_Digital_Marketing-34A853?style=for-the-badge&logo=google&logoColor=white" alt="Google Digital Marketing" /></a>
+<a href="https://coursera.org/share/c7d3d67814cd9c97ab1016ea0e74ffc9" target="_blank"><img src="https://img.shields.io/badge/Google_Prompting_Essentials-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials" /></a>
+</p>
