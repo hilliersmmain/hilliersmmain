@@ -117,9 +117,6 @@ Repurposed a gaming PC into a headless ML server accessible globally via NordVPN
 ### [LLM Gateway API](https://github.com/hilliersmmain/llm-gateway-api) — Enterprise AI Integration
 **FastAPI** gateway proxying requests to Gemini 2.5 Flash with input validation guardrails, **PostgreSQL** request logging, and token tracking. Containerized with Docker Compose.
 
-### [Dr. Faruk Arinc Portfolio Website](https://github.com/hilliersmmain/dr-faruk-arinc-portfolio-website) — Professional Web Development
-Modern portfolio website showcasing academic work and publications. Built with responsive design principles and optimized performance.
-
 ---
 
 <h2 align="center">Certifications</h2>
