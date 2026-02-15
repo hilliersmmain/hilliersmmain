@@ -127,21 +127,3 @@ Repurposed a gaming PC into a headless ML server accessible globally via NordVPN
 <a href="https://coursera.org/share/c7d3d67814cd9c97ab1016ea0e74ffc9" target="_blank"><img src="https://img.shields.io/badge/Google_Prompting_Essentials-EA4335?style=for-the-badge&logo=google&logoColor=white" alt="Google Prompting Essentials" /></a>
 </p>
 
----
-
-<h2 align="center">GitHub Stats</h2>
-
-
-<div align="center">
-<a href="https://github.com/hilliersmmain">
-<img src="https://github-readme-stats.vercel.app/api?username=hilliersmmain&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="Sam Hillier's GitHub Stats" />
-</a>
-<a href="https://github.com/hilliersmmain">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilliersmmain&layout=compact&langs_count=8&theme=tokyonight&hide=html" height="180" alt="Sam Hillier's Top Languages" />
-</a>
-</div>
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/hilliersm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</div>
-
